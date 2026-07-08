@@ -8,5 +8,5 @@ const CONFIG_APP = {
     namaVendor: "AK PICTURE'S",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo"
+    googleApiKey: "AIzaSyC811xY_7qfJQ5KL8k-RgZ22oi5Y-k2Lfg"
 };
